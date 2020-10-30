@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">A7S212021prac6</string>
+    <string name="vcelular">Celular</string>
+    <string name="vvertical">Vertical</string>
+    <string name="vhorizontal">Horizontal</string>
+    <string name="f">f</string>
+    <string name="vtablet">Tablet</string>
+</resources>
